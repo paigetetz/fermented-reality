@@ -1,6 +1,6 @@
 import React from 'react';
 
-function BreweryShow(props) {
+function BreweryShow() {
     return (
         <div>
             
